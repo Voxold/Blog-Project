@@ -1,4 +1,4 @@
-# Build Blog Website with Django Web Framework [Python]
+# Build Blog Website with Django Web Framework
 
 This project involves building a full-featured blog website using the Django Web Framework and Python for the backend. The application is designed to provide a robust platform for creating, managing, and publishing blog posts.
 Features:
